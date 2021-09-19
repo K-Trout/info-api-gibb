@@ -39,13 +39,13 @@ Falls auch noch weiteres Interesse an dem Thema der Kryptografie herrscht, kann 
 
 ## M117
 
-[spick_117_1.pdf](M114/spick_117_1.pdf)
+[spick_117_1.pdf](M117/spick_117_1.pdf)
 
-[spick_117_2.pdf](M114/spick_117_2.pdf)
+[spick_117_2.pdf](M117/spick_117_2.pdf)
 
 ## M123
 
-[spick_123_2.pdf](M114/spick_123_2.pdf)
+[spick_123_2.pdf](M123/spick_123_2.pdf)
 
 Das Modul 123 bietet eine Einführung in die Grundlagen des Aufbaus eines Netzwerkes mit Windows-Servern. Während die Anleitung gegeben in den Modulunterlagen (Stand Januar 2020) durchaus brauchbar ist, gibt es mehrere Stellen, an welchen ohne Vorwissen des Gebietes Verwirrungen und Mehraufwand sich präsentieren können:
 
@@ -55,7 +55,7 @@ Die Unterlagen haben eine falsche Reihenfolge aus didaktischen Gründen, um die 
 
 ## M153
 
-[spick_153_1.pdf](M114/spick_153_1.pdf)
+[spick_153_1.pdf](M153/spick_153_1.pdf)
 
 ## M403
 
